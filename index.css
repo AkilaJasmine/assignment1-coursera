@@ -1,0 +1,15 @@
+.error{
+    color: red;
+}
+.valid{
+    color: green;
+}
+.textBoxValid{
+    border-color: green; 
+}
+.textBoxError{
+    border-color: red;
+}
+#textBox{
+    width: 300px;
+}
